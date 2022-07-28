@@ -12,11 +12,11 @@ namespaceOverride: ""
 
 ## Provide a k8s version to auto dashboard import script example: kubeTargetVersionOverride: 1.16.6
 ##
-kubeTargetVersionOverride: "1.24.2"
+kubeTargetVersionOverride: ""
 
 ## Allow kubeVersion to be overridden while creating the ingress
 ##
-kubeVersionOverride: "1.24.2"
+kubeVersionOverride: ""
 
 ## Provide a name to substitute for the full names of resources
 ##
